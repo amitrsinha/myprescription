@@ -1,0 +1,26 @@
+{
+  "name": "myprescription",
+  "version": "1.0.0",
+  "description": "digital prescription",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitrsinha/myprescription.git"
+  },
+  "keywords": [
+    "digital",
+    "prescription"
+  ],
+  "author": "Amit Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitrsinha/myprescription/issues"
+  },
+  "homepage": "https://github.com/amitrsinha/myprescription#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
